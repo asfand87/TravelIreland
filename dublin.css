@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #d5ecb5;
+}
+
+.container {
+  margin-top: 5rem;
+}
+
+.container img {
+  width: 100%;
+  margin: 2rem auto;
+  height: 500px;
+  object-fit: fill;
+}
+.jumbotron {
+  padding: 0;
+  background-color: #d5ecb5;
+}
